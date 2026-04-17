@@ -16,9 +16,6 @@
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%3E+Inicializando+sistemas+da+base...+OK;%3E+Carregando+arsenal+tático...+OK;%3E+Conexão+com+Sigma+Team+estabelecida.;%3E+Soldado+Alexandre+Brito+online.+Pronto+para+o+combate." alt="Typing SVG"/>
-
 <br/><br/>
 
 <table border="0" cellspacing="0" cellpadding="12">
