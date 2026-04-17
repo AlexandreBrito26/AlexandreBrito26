@@ -8,10 +8,6 @@
 ![Patente](https://img.shields.io/badge/PATENTE-SOLDADO_ESPECIALISTA-8B0000?style=for-the-badge&logo=stackexchange&logoColor=white&labelColor=0a0a0a)
 ![Objetivo](https://img.shields.io/badge/OBJETIVO-GENERAL_FULL_STACK-000?style=for-the-badge&logo=target&logoColor=39FF14&labelColor=0a0a0a)
 
-<br/>
-
-<br/><br/>
-
 <table border="0" cellspacing="0" cellpadding="12">
 <tr>
 <td align="center">
