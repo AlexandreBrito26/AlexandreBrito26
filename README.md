@@ -30,27 +30,6 @@
 
 ---
 
-## 📡 IDENTIFICAÇÃO DO SOLDADO
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="210" alt="coding gif"/>
-
-```bash
-╔══════════════════════════════════════════════════╗
-║  $ sudo cat /etc/soldier-profile.conf            ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║  NOME DE GUERRA  : Alexandre Brito               ║
-║  ESQUADRÃO       : Sigma Team 🔴                 ║
-║  ESPECIALIDADE   : Front-End Combat Unit         ║
-║  STATUS          : Ativo / Sobrevivente          ║
-║  MISSÃO ATUAL    : Destruir bugs de interface    ║
-║  OBJETIVO FINAL  : General Full Stack 🏆         ║
-║  LOCALIZAÇÃO     : Brasil 🇧🇷                    ║
-║  UPTIME          : 100% — Nunca em recuo         ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
-
 Veterano da **Zona de Quarentena**. Sobrevivi ao treinamento básico, aprendi a operar sob pressão extrema e a manter os sistemas da base de pé quando tudo ao redor estava pegando fogo.
 
 Cada `<tag>` é uma trincheira. Cada `commit`, uma batalha vencida. Cada `deploy`, uma vitória.
