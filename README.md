@@ -3,12 +3,6 @@
      Sigma Team | Front-End Division | Brasil 🇧🇷
      ================================================================ -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=ALEXANDRE%20BRITO&fontSize=58&fontColor=39FF14&fontAlignY=40&desc=⚔️%20Soldado%20Especialista%20%7C%20Sigma%20Team%20%7C%20Front-End%20Division&descAlignY=62&descSize=16&descColor=aaaaaa&animation=fadeIn&stroke=8B0000&strokeWidth=2" width="100%"/>
-
-<br/>
-
 <!-- STATUS BADGES -->
 ![Status](https://img.shields.io/badge/STATUS-ATIVO_EM_CAMPO-000?style=for-the-badge&logo=statuspage&logoColor=39FF14&labelColor=0a0a0a)
 ![Patente](https://img.shields.io/badge/PATENTE-SOLDADO_ESPECIALISTA-8B0000?style=for-the-badge&logo=stackexchange&logoColor=white&labelColor=0a0a0a)
